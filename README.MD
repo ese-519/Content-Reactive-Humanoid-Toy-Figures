@@ -3,8 +3,8 @@ Content-Reactive-Humanoid-Toy-Figures
 
 **University of Pennsylvania, ESE 519: Real Time and Embedded Systems**
 
-* TEAM MEMBER NAMES
-* [Blog](https://devpost.com/software/project-name) (TODO: Link to devpost submission)
+Stuart Helgeson, Sarath Vadakkepat, Zairah Sahaf
+https://devpost.com/software/content-reactive-humanoid-toy-figures
 
 ### DESCRIPTION AND GOALS
 (TODO: Add a brief description of the project and Final Goals)
